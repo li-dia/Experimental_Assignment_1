@@ -39,7 +39,7 @@ Before running this project, ensure you have the following installed:
 1. Clone the repository into your catkin workspace:  
    ```bash
    cd ~/catkin_ws/src
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/li-dia/Experimental_Assignment_1.git)
    cd ~/catkin_ws
    catkin_make
    source devel/setup.bash
