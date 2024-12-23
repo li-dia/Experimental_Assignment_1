@@ -42,5 +42,14 @@ Before running this project, ensure you have the following installed:
    git clone https://github.com/li-dia/Experimental_Assignment_1.git
    cd ~/catkin_ws
    catkin_make
-   source devel/setup.bash
-   roslaunch robot_urdf assignment1.launch
+   source devel/setup.bash```
+
+2. To start the simulation, use one of the following launch files depending on the desired functionality:
+
+ **Fixed Camera Mode**:
+   ```bash
+   roslaunch robot_urdf camera_fixed.launch```
+
+**Rotating Camera Mode**:
+```bash
+   roslaunch robot_urdf camera_rotating.launch```
