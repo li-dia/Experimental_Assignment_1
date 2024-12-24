@@ -57,5 +57,11 @@ Before running this project, ensure you have the following installed:
    roslaunch robot_urdf camera_fixed.launch
    ```
 
+## 📜 **Done By**
+
+- **Lidia Loubar**  
+- **Amani Ghomrani**  
+- **Cheima Ferdjallah**  
+- **Yazan Kayali** 
 
 
