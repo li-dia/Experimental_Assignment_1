@@ -45,11 +45,12 @@ Before running this project, ensure you have the following installed:
    source devel/setup.bash
 
 2. To start the simulation, use one of the following launch files depending on the desired functionality:
-**Rotating Camera Mode**:
+   
+#### Rotating Camera Mode:
    ```bash
    roslaunch robot_urdf camera_rotating.launch
 
-**Fixed Camera Mode**:
+#### Fixed Camera Mode:
    ```bash
    roslaunch robot_urdf camera_fixed.launch
 
